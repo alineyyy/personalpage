@@ -9,6 +9,13 @@ redirect_from:
 
 I am a Ph.D. researcher at [NeuroSpin, CEA Paris-Saclay](https://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), working within the [MIND team](https://team.inria.fr/mind/) (Models and Inference for Neuroimaging Data). My doctoral research focuses on **high-resolution 4D acquisition strategies for 11.7 T fMRI**, with the goal of maximizing signal-to-noise ratio and minimizing artifacts in ultra-high-field functional neuroimaging.
 
+## Publications
+
+**MRI-NUFFT: Doing non-Cartesian MRI has never been easier**  
+Comby, P.-A., Daval-Frérot, G., **Pan, C.**, Tanabene, A., Oudjman, L., Cencini, M., Ciuciu, P., & GR, Chaithya.  
+*Journal of Open Source Software*, 10(108), 7743, 2025.  
+[[DOI]](https://doi.org/10.21105/joss.07743) [[Google Scholar]](https://scholar.google.com/citations?user=gGFoUwEAAAAJ&hl=fr)
+
 ## Education
 
 - **Ph.D. in Physics & Medical Imaging** — University of Paris-Saclay, France *(Dec 2024 – expected Dec 2027)*  
@@ -19,12 +26,7 @@ I am a Ph.D. researcher at [NeuroSpin, CEA Paris-Saclay](https://joliot.cea.fr/d
 
 - **B.S. in Electronic Information Engineering** — Xidian University, Xi'an, China *(2018 – 2022)*
 
-## Publications
 
-**MRI-NUFFT: Doing non-Cartesian MRI has never been easier**  
-Comby, P.-A., Daval-Frérot, G., **Pan, C.**, Tanabene, A., Oudjman, L., Cencini, M., Ciuciu, P., & GR, Chaithya.  
-*Journal of Open Source Software*, 10(108), 7743, 2025.  
-[[DOI]](https://doi.org/10.21105/joss.07743) [[Google Scholar]](https://scholar.google.com/citations?user=gGFoUwEAAAAJ&hl=fr)
 
   
 ## News
